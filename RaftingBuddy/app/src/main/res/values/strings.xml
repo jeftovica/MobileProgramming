@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RaftingBuddy</string>
+
+    <string name="user1_name">Tarik Maljanovic</string>
+    <string name="user2_name">Melisa Geca</string>
+    <string name="user3_name">Selma Imsirovic</string>
+    <string name="user4_name">Amina Meric</string>
+    <string name="user5_name">Zehra Grbovic</string>
+    <string name="user6_name">Ajla Korman</string>
+    <string name="user7_name">Amila Abdulovic</string>
+    <string name="user8_name">Andjela Jeftovic</string>
+    <string name="user9_name">Mustafa Ajanovic</string>
+
+    <string name="neretva_river">Neretva</string>
+    <string name="tara_river">Tara</string>
+    <string name="vrbas_river">Vrbas River</string>
+
+    <string name="date1">May 1, 2023</string>
+    <string name="date2">June 8, 2023</string>
+    <string name="date3">May 23, 2023</string>
+    <string name="date4">April 19, 2023</string>
+    <string name="date5">July 3, 2023</string>
+    <string name="date6">July 11, 2023</string>
+    <string name="date7">August 28, 2023</string>
+    <string name="date8">August 4, 2023</string>
+    <string name="date9">September 7, 2023</string>
+
+</resources>
